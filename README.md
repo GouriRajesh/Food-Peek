@@ -22,6 +22,7 @@ sites from where the item can be ordered.</p>
 * Change the path of the images used in the GUI to the current path where it is stored.  
 * Update your EMAIL ID and PASSWORD under the email section of the application.  
 * Update your USERNAME and PASSWORD to connect to the MySQL Database server.  
+* Run each cell and train the ML model. Once the model is trained and ready, you will be able to use it in your application.
 
 <h3>THINGS TO KEEP IN MIND</h3>
 
