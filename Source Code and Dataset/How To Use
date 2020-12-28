@@ -1,0 +1,6 @@
+Hello!
+
+This folder contains the source code of the Food Peek application, under the title 'GitHub Food Peek.'
+
+You can also find the dataset used for this application. This program is a basic version and hence is able to classify only 9 items into food classes. You can find the entire dataset on Kaggle using the link:
+https://www.kaggle.com/kmader/food41
