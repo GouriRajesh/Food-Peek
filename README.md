@@ -6,7 +6,7 @@ table? Or unable to find the local name for a food item in a foreign country/ fo
 language? </p>
 
 <p>Food Peek helps you tackle such exact situations.
-Food Peek makes use to efficient machine learning algorithms to successfully classify the
+Food Peek makes use of efficient machine learning algorithms to successfully classify the
 image input by the user and output the name, ingredients, recipes, nutrition content and
 sites from where the item can be ordered.</p>
 
